@@ -26,17 +26,18 @@
 
 
 <h3 align="left">Blockchains</h3>
-<p align="left">
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
-</p>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ethereum"/> </a>
+<a href="https://www.bnbchain.org/en/smartChain" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Binance-yellow?style=for-the-badge&logo=binance&logoColor=black" alt="binance"/> </a>
 
 
 <h3 align="left">Programming Lanugages</h3>
  <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
+ <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=black" alt="python"/> </a>
 
 
  <h3 align="left">Smart Contract Frameworks</h3>
- <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Foundry-orange?style=flat-square&logo=Ethereum&logoColor=black" alt="foundry" height="28" width="105"/> </a>
+ <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Foundry-lightgrey?style=for-the-badge&logo=ethereum&logoColor=black" alt="foundry"/> </a>
+ <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brownie-grey?style=for-the-badge&logo=ethereum&logoColor=black" alt="brownie"/> </a>
 
   <h3 align="left">Off-Chain</h3>
 <p align="left">
