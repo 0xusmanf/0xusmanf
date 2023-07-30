@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/usman-farooq-7576011b" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">I'm a Solidity | Smart Contract developer</h4>
+<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher.</h4>
 
 
 ---
