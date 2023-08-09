@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on **Ethereum Smart Contracts**
 
-- 🌱 I’m currently learning **Web3 Ecosystem**
-
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/usmanfarooq91?tab=repositories)
