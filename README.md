@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
 
-- 📫 To reach me **DM** on [**Twitter**](https://twitter.com/usmanfarooq90)
+- 📫 To reach me **DM** on [**Twitter**](https://twitter.com/0xusmanf)
 
 
 
