@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Usman Farooq</h2>
 
 <p align="left">
-<a href="https://twitter.com/usmanfarooq90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
+<a href="https://twitter.com/0xusmanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usman-farooq-7576011b" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher.</h4>
+<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher, SSCD+ certified by Cyfrin Updraft.</h4>
 
 
 ---
