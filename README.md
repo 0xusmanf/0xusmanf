@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/usman-farooq-7576011b" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher, SSCD+ certified by Cyfrin Updraft.</h4>
+<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher, SSCD+ certified by <a href="https://updraft.cyfrin.io/certifications/solidity-certification">Cyfrin Updraft</a>.</h4>
 
 
 ---
@@ -24,18 +24,15 @@
 
 
 <h3 align="left">Blockchains</h3>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ethereum"/> </a>
-<a href="https://www.bnbchain.org/en/smartChain" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Binance-yellow?style=for-the-badge&logo=binance&logoColor=black" alt="binance"/> </a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM"/> </a>
 
 
 <h3 align="left">Programming Lanugages</h3>
  <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
- <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=black" alt="python"/> </a>
 
 
  <h3 align="left">Smart Contract Frameworks</h3>
  <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Foundry-lightgrey?style=for-the-badge&logo=ethereum&logoColor=black" alt="foundry"/> </a>
- <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Brownie-grey?style=for-the-badge&logo=ethereum&logoColor=black" alt="brownie"/> </a>
 
   <h3 align="left">Off-Chain</h3>
 <p align="left">
