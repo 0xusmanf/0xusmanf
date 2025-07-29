@@ -1,44 +1,73 @@
-<h2 align="left">Hi 👋, I'm Usman Farooq</h2>
 
-<p align="left">
-<a href="https://twitter.com/0xusmanf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abossofmyself" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usman-farooq-7576011b" target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="0xsiddique" height="30" width="40" /></a>
-</p>
+<h3 align="center">🔗 Usman Farooq | Certified Solidity Developer & Security Researcher</h3>
 
-<h4 align="left">I'm a Solidity Smart Contract developer and Security Researcher, SSCD+ certified by <a href="https://updraft.cyfrin.io/certifications/solidity-certification">Cyfrin Updraft</a>.</h4>
-
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/79731568097599.5b50bca477735.jpg" height="200" alt="Tech Banner" />
+</div>
 
 ---
 
+### 🔥 About Me
 
-- 🔭 I’m currently working on **Ethereum Smart Contracts**
+**Security-focused Smart Contract Developer** with proven experience identifying **high-impact vulnerabilities** in public audits. Combines hands-on expertise in modern blockchain development (Solidity, Foundry) with a **5-year background** in professional systems management. Adept at designing and deploying secure, smart contracts with advanced testing methodologies, including fuzzing and invariant testing. 
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+🔍 **Core Expertise:**
+- **Smart Contract Auditing**: Practical knowledge of different attack vectors like reentrancy, integer overflows, oracle manipulation, and gas inefficiencies.
+- **Blockchain & Web3:** Solidity, Foundry, EVM, DeFi, Off-chain Oracles, Blockchain Architecture, DevOps.
+- **Security & Testing:** Unit Testing, Fuzz & Invariant Testing, Attack Vector Analysis.
+- **Tools & Platforms:** Foundry, Static analyzer tools (Slither, Aderyn), Git, GitHub, Tenderly.
 
-- 👨‍💻 All of my projects are available [**here**](https://github.com/usmanfarooq91?tab=repositories)
+🚀 **Current Focus:**
+- Performing **economic audits** and **security assessments** for DeFi protocols.
+- Advancing expertise in **assembly**, **formal verification** and **gas optimization** for smart contracts.
+- Contributing to audit competitions like **CodeHawks** and **Code4rena** to enhance security skills.
 
-- 💬 Ask me about **Smart Contracts (Solidity) and Blockchain**
+---
 
-- 📫 To reach me **DM** on [**Twitter**](https://twitter.com/0xusmanf)
+## 🏅 **[SSCD+ Certification](https://profiles.cyfrin.io/u/0xusmanf/certificates/solidity-certification)**
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 0 15px;">
+        <h3>💪 Key Skills Tested</h3>
+        <ul>
+          <li>Proficiency in Solidity development</li>
+          <li>Application of industry best practices</li>
+          <li>Smart contract security expertise</li>
+          <li>Mastery of industry-standard development tools</li>
+          <li>Protocol-specific knowledge</li>
+          <li>Blockchain DevOps skills</li>
+        </ul>
+      </td>
+      <td width="50%" style="vertical-align: top; text-align: center; padding: 0 15px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/l5tf11a4nbzpgmr/SC00003.pdf" height="250" alt="SSCD+ certificate" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
-<h3 align="left">Blockchains</h3>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM"/> </a>
+## 🏆 Audit & Cyfrin Updraft Challenge NFTs / CTFs Achievements
 
+- **Audit Competitions**:
+  - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
+  - Ranked **#243** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
+  - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
+- **Cyfrin Updraft Challenge NFTs / CTFs**:
+  - Exploited vulnerable smart contracts by developing and executing scripts for various attack vectors, including **reentrancy**, **integer overflows**, **oracle manipulation**, and **Delegatecall**.
+  - Demonstrated security expertise by minting all challenge NFTs through smart contract exploitation.
+  - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
 
-<h3 align="left">Programming Lanugages</h3>
- <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
+---
 
+### 📧 Let's Connect!
 
- <h3 align="left">Smart Contract Frameworks</h3>
- <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Foundry-lightgrey?style=for-the-badge&logo=ethereum&logoColor=black" alt="foundry"/> </a>
-
-  <h3 align="left">Off-Chain</h3>
-<p align="left">
-  <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/0xusmanf" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-
-
-
+---
