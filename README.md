@@ -61,17 +61,7 @@
   - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
  
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" style="vertical-align: top; text-align: center; padding: 0 15px;">
-        <img src="https://github.com/0xusmanf/0xusmanf/blob/main/0xusmanf-stats.png" height="200" alt="Security researcher statistics" />
-      </td>
-      <td width="33%" style="vertical-align: top; text-align: center; padding: 0 15px;">
-      </td>
-      <td width="34%" style="vertical-align: top; text-align: center; padding: 0 15px;">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/0xusmanf/0xusmanf/blob/main/0xusmanf-stats.png" height="200" alt="Security researcher statistics" />
 </div>
 
 ---
