@@ -53,12 +53,26 @@
 
 - **Audit Competitions**:
   - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
-  - Ranked **#243** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
+  - Ranked **#239** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
   - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
 - **Cyfrin Updraft Challenge NFTs / CTFs**:
   - Exploited vulnerable smart contracts by developing and executing scripts for various attack vectors, including **reentrancy**, **integer overflows**, **oracle manipulation**, and **Delegatecall**.
-  - Demonstrated security expertise by minting all challenge NFTs through smart contract exploitation.
+  - Demonstrated security expertise by minting all challenge NFTs of Foundry and Security courses through smart contract exploitation.
   - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
+ 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" style="vertical-align: top; text-align: center; padding: 0 15px;">
+        <img src="https://github.com/0xusmanf/0xusmanf/blob/main/0xusmanf-stats.png" height="200" alt="Security researcher statistics" />
+      </td>
+      <td width="33%" style="vertical-align: top; text-align: center; padding: 0 15px;">
+      </td>
+      <td width="34%" style="vertical-align: top; text-align: center; padding: 0 15px;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
