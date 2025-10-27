@@ -49,6 +49,11 @@
 
 ---
 
+## 📝 Official SSCD+ Study Guides – Co-author
+Co-author of the official SSCD+ study guides (Cyfrin, Oct 2025) – 4× guides, 275+ exam-style questions used by developers to pass the industry’s toughest Solidity certification.
+
+---
+
 ## 🏆 Audit & Cyfrin Updraft Challenge NFTs / CTFs Achievements
 
 - **Audit Competitions**:
