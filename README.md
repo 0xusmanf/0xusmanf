@@ -24,6 +24,28 @@
 
 ---
 
+## 🏆 Audit & Cyfrin Updraft Challenge NFTs / CTFs Achievements
+
+- **Audit Competitions**:
+  - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
+  - Ranked **#239** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
+  - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
+- **Cyfrin Updraft Challenge NFTs / CTFs**:
+  - Exploited vulnerable smart contracts by developing and executing scripts for various attack vectors, including **reentrancy**, **integer overflows**, **oracle manipulation**, and **Delegatecall**.
+  - Demonstrated security expertise by minting all challenge NFTs of Foundry and Security courses through smart contract exploitation.
+  - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
+ 
+<div align="center">
+  <img src="https://github.com/0xusmanf/0xusmanf/blob/main/0xusmanf-stats.png" height="200" alt="Security researcher statistics" />
+</div>
+
+---
+
+## 📝 Official SSCD+ Study Guides – Co-author
+Co-author of the official SSCD+ study guides, 275+ exam-style questions used by developers to pass the industry’s toughest Solidity certification.
+
+---
+
 ## 🏅 **[SSCD+ Certification](https://profiles.cyfrin.io/u/0xusmanf/certificates/solidity-certification)**
 
 <div align="center">
@@ -49,24 +71,27 @@
 
 ---
 
-## 📝 Official SSCD+ Study Guides – Co-author
-Co-author of the official SSCD+ study guides (Cyfrin, Oct 2025) – 4× guides, 275+ exam-style questions used by developers to pass the industry’s toughest Solidity certification.
+## 🏅 **[QWS Certification](https://profiles.cyfrin.io/u/0xusmanf/certificates/qualified-web3-signer)**
 
----
-
-## 🏆 Audit & Cyfrin Updraft Challenge NFTs / CTFs Achievements
-
-- **Audit Competitions**:
-  - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
-  - Ranked **#239** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
-  - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
-- **Cyfrin Updraft Challenge NFTs / CTFs**:
-  - Exploited vulnerable smart contracts by developing and executing scripts for various attack vectors, including **reentrancy**, **integer overflows**, **oracle manipulation**, and **Delegatecall**.
-  - Demonstrated security expertise by minting all challenge NFTs of Foundry and Security courses through smart contract exploitation.
-  - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
- 
 <div align="center">
-  <img src="https://github.com/0xusmanf/0xusmanf/blob/main/0xusmanf-stats.png" height="200" alt="Security researcher statistics" />
+  <table width="100%">
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 0 15px;">
+        <h3>💪 Key Skills Tested</h3>
+        <ul>
+          <li>Wallet architecture fundamentals and threat modeling</li>
+          <li>Secure transaction verification</li>
+          <li>Multi-signature wallet setup and operation</li>
+          <li>Private key and recovery strategy best practices</li>
+          <li>Usage of professional wallet tooling i.e. Safe Hash</li>
+          <li>Role-readiness as a qualified transaction and message signer</li>
+        </ul>
+      </td>
+      <td width="50%" style="vertical-align: top; text-align: center; padding: 0 15px;">
+        <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_png/q_auto/v1751954616/course-completion-pdfs-real/l5tf11a4nbzpgmr/QWS00001.pdf" height="250" alt="QWS certificate" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
