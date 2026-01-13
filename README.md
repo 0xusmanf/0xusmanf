@@ -30,7 +30,6 @@
   - [Decentralized Lottery](https://github.com/0xusmanf/decentralized-lottery-with-foundry/edit/main/README.md)
     - A **provably fair**, **automated**, and **decentralized** lottery smart contract for Ethereum.  
 Built with [Foundry](https://book.getfoundry.sh/) and powered by [Chainlink VRF](https://docs.chain.link/vrf), [Chainlink Automation](https://docs.chain.link/chainlink-automation/introduction), and [Chainlink Price Feeds](https://docs.chain.link/data-feeds/price-feeds).  
-
     - This project started as the [Cyfrin Foundry Smart Contract Lottery](https://github.com/Cyfrin/foundry-smart-contract-lottery-cu) from the *Cyfrin Updraft* course, then evolved with new features, improved architecture, and more robust testing.
 - **Audit Competitions:**
   - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
@@ -103,7 +102,7 @@ Co-author of the official SSCD+ study guides, 275+ exam-style questions used by 
 ---
 
 - **Other Experiance:**
-  - Unilever Pakistan PVT. LTD (Assistant MIS Coordinator): DEC 2016 – NOV 2021
+  - **Unilever Pakistan PVT. LTD (Assistant MIS Coordinator): DEC 2016 – NOV 2021**
     - Wrote many PL/SQL based queries to generate meaningful reports.
     - Succeeded in streamlining daily operations by automating key reports to improve reporting efficiency and reduce manual workload.
     - Led the digital transformation by launching the Accenture News Page across multiple locations and replacing the offline information management system.
