@@ -26,11 +26,17 @@
 
 ## 🏆 Audit & Cyfrin Updraft Challenge NFTs / CTFs Achievements
 
-- **Audit Competitions**:
+- **Project:**
+  - [Decentralized Lottery](https://github.com/0xusmanf/decentralized-lottery-with-foundry/edit/main/README.md)
+    - A **provably fair**, **automated**, and **decentralized** lottery smart contract for Ethereum.  
+Built with [Foundry](https://book.getfoundry.sh/) and powered by [Chainlink VRF](https://docs.chain.link/vrf), [Chainlink Automation](https://docs.chain.link/chainlink-automation/introduction), and [Chainlink Price Feeds](https://docs.chain.link/data-feeds/price-feeds).  
+
+    - This project started as the [Cyfrin Foundry Smart Contract Lottery](https://github.com/Cyfrin/foundry-smart-contract-lottery-cu) from the *Cyfrin Updraft* course, then evolved with new features, improved architecture, and more robust testing.
+- **Audit Competitions:**
   - Participated in two public smart contract security contests, demonstrating a strong adversarial mindset.
   - Ranked **#239** in **CodeHawks**, with identifying valid high & low-severity vulnerabilities.
   - Engaging in **Code4rena** audits to strengthen high-stakes smart contract security expertise.
-- **Cyfrin Updraft Challenge NFTs / CTFs**:
+- **Cyfrin Updraft Challenge NFTs / CTFs:**
   - Exploited vulnerable smart contracts by developing and executing scripts for various attack vectors, including **reentrancy**, **integer overflows**, **oracle manipulation**, and **Delegatecall**.
   - Demonstrated security expertise by minting all challenge NFTs of Foundry and Security courses through smart contract exploitation.
   - On-Chain Proof: View minted NFTs on ZKsync Mainnet [(link)](https://www.oklink.com/zksync-era/address/0xa902fb9cdd94324c7380c7dacae428413db87b1e/assets/nft)
@@ -93,6 +99,16 @@ Co-author of the official SSCD+ study guides, 275+ exam-style questions used by 
     </tr>
   </table>
 </div>
+
+---
+
+- **Other Experiance:**
+  - Unilever Pakistan PVT. LTD (Assistant MIS Coordinator): DEC 2016 – NOV 2021
+    - Wrote many PL/SQL based queries to generate meaningful reports.
+    - Succeeded in streamlining daily operations by automating key reports to improve reporting efficiency and reduce manual workload.
+    - Led the digital transformation by launching the Accenture News Page across multiple locations and replacing the offline information management system.
+    - Developed and executed comprehensive test cases for the launch of the Accenture News Page system to ensure a smooth and error-free rollout.
+    - Built synergies with department heads, supervisors, and vendors to address operational challenges and maintain smooth IT service delivery.
 
 ---
 
