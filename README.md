@@ -101,9 +101,9 @@ Co-author of the official SSCD+ study guides, 275+ exam-style questions used by 
 
 ---
 
-- **Other Experiance:**
+- **Other Experience:**
   - **Unilever Pakistan PVT. LTD (Assistant MIS Coordinator): DEC 2016 – NOV 2021**
-    - Wrote many PL/SQL based queries to generate meaningful reports.
+    - Wrote many PL/SQL-based queries to generate meaningful reports.
     - Succeeded in streamlining daily operations by automating key reports to improve reporting efficiency and reduce manual workload.
     - Led the digital transformation by launching the Accenture News Page across multiple locations and replacing the offline information management system.
     - Developed and executed comprehensive test cases for the launch of the Accenture News Page system to ensure a smooth and error-free rollout.
